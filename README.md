@@ -24,6 +24,21 @@ Email:	https://github.com/baldevschavan/baldevschavan.git / baldevchavan585@gmai
 + Database:	Sql , MySql, MSSMS, Oracle,  Access, Excel.
 + Operating Systems:	DOS, Windows
 + Hardware Networking	
+  
+ + MCM	SRTMU NANDED	2008	Computer Science & Managemennt	1470/2400	A
++ A.D.C.P	IGM, Govt. of Delhi.	2002-03	Computer Programming & System Management	-	A
++ B.A.	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2004	English, Economics and Psychology	1321/2500	B
++ H.S.C.	PUNE	2001	ARTS	354/600 (54.00%)	B
++ S.S.C.	PUNE	1999	ALL SUBJECTS	444/750 (59.20%)	B
++ Additional Degree and Courses (Qualification):
++ SET	Savitribai Phule University Pune	2021	English	-	Qualified
++ PET	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2015	English	-	Qualified
++ M.A.	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2012	English	495/800	A
+B.Ed.	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2013	English, History	753/1200	A
++ :: Work Experience:
+1.	Assistant Professor (on Contract Basis), Department Computer Science, Muktanand College Gangapur. - Period: 2009-2016.
+2.	Assistant Professor and Head of the Department (on Contract Basis), Department Computer Science, Shivaji Arts, Commerce and Science College Kannad: - Period: 2017- Present.
+3.	Assistant Professor (Clock Hour Basis), Department of English, Shivaji Arts, Commerce and Science College Kannad: - Period: 2021- Present.
 
 <!---
 baldevschavan/baldevschavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
