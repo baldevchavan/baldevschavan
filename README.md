@@ -9,7 +9,7 @@
   + Name :	Mr. BALDEV SHANKAR CHAVAN
 Date of Birth	15/04/01983
 Mobile No.:	9359517160 / 8830281054
-Email:	baldevchavan585@gmail.com / bsc_sunny@yahoo.co.in 
+Email:	https://github.com/baldevschavan/baldevschavan.git / baldevchavan585@gmail.com / bsc_sunny@yahoo.co.in 
 + Department:	Computer Science, Shivaji Arts, Commerce and Science College Kannad
 + Current Designation:	Assistant Professor and H.O.D.
 + Address:	Navjivan Colony, College Road Kannad, Tal. Kannad, Dist. Aurangabad. 431103
