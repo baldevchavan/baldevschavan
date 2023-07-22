@@ -1,46 +1,47 @@
-- 👋 Hi, I’m Baldev S Chavan
-- 👀 I’m interested in fullstack web development in ReactJS/NodeJS/ExpressJs
-- 🌱 I’m currently learning Fullstack Web Development -Advance Certification in Full Stack Developer - E & ICT Academy IIT Guwahati
-    HTML/CSS/JavaScript/Bootstrap, Java using OOPs, Data Structure  and Algorithm, ReactJS, NodeJS/Express/Redux, SQL/MonoDB, GIT
-- 💞️ I’m looking to collaborate on website development project in FrontEnd - ReactJS, BackEnd - NodeJS
-- 📫 How to reach me ...
-- + Additional Knowledge: C,CPP,Java,C Sharpe (Asp.Net/MVC),PHP (Laravel),MS-Office
- 
-  + Name :	Mr. BALDEV SHANKAR CHAVAN
-Date of Birth	15/04/01983
-Mobile No.:	9359517160 / 8830281054
-Email:	https://github.com/baldevschavan/baldevschavan.git / baldevchavan585@gmail.com / bsc_sunny@yahoo.co.in 
-+ Department:	Computer Science, Shivaji Arts, Commerce and Science College Kannad
-+ Current Designation:	Assistant Professor and H.O.D.
-+ Address:	Navjivan Colony, College Road Kannad, Tal. Kannad, Dist. Aurangabad. 431103
+# MERN E-COMMERCE TUTORIAL
 
-+ Objectives:  A highly motivated and hardworking individual looking for a responsible role in a reputable organization.
-+ Computer Knowledge:
-+ Computer Software/Hardware: 
-+ Programming languages:	C, CPP, Java,  C#, PHP, JavaScript
-+ Web Technology:	Core Dotnet, Asp.net, MVC. ReactJS, Laravel, 
-+ Programming  languages:	HTML, CSS, Bootstrap,
-+ Application Software:	MS-Office
-+ Database:	Sql , MySql, MSSMS, Oracle,  Access, Excel.
-+ Operating Systems:	DOS, Windows
-+ Hardware Networking	
-  
- + MCM	SRTMU NANDED	2008	Computer Science & Managemennt	1470/2400	A
-+ A.D.C.P	IGM, Govt. of Delhi.	2002-03	Computer Programming & System Management	-	A
-+ B.A.	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2004	English, Economics and Psychology	1321/2500	B
-+ H.S.C.	PUNE	2001	ARTS	354/600 (54.00%)	B
-+ S.S.C.	PUNE	1999	ALL SUBJECTS	444/750 (59.20%)	B
-+ Additional Degree and Courses (Qualification):
-+ SET	Savitribai Phule University Pune	2021	English	-	Qualified
-+ PET	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2015	English	-	Qualified
-+ M.A.	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2012	English	495/800	A
-B.Ed.	Dr. Babasaheb Ambedkar Marathwada University, Aurangabad	2013	English, History	753/1200	A
-+ :: Work Experience:
-1.	Assistant Professor (on Contract Basis), Department Computer Science, Muktanand College Gangapur. - Period: 2009-2016.
-2.	Assistant Professor and Head of the Department (on Contract Basis), Department Computer Science, Shivaji Arts, Commerce and Science College Kannad: - Period: 2017- Present.
-3.	Assistant Professor (Clock Hour Basis), Department of English, Shivaji Arts, Commerce and Science College Kannad: - Period: 2021- Present.
+Hi! My name is **Abhishek Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
-<!---
-baldevschavan/baldevschavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Prerequisite
+
+1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
+2.  Node - https://youtu.be/BSO9C8Z-YV8
+3.  React - https://youtu.be/99kgUCIMboY
+4.  Express - https://youtu.be/teipbke8c4A\
+5.  MongoDB - https://youtu.be/AYDP1S5BbTo
+6.  RestApi - https://youtu.be/AhCSfuG9Jxw _(optional)_
+
+# Install Dependencies
+
+**For Backend** - `npm i`
+
+**For Frontend** - `cd frontend` ` npm i`
+
+## Env Variables
+
+Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+
+**Essential Variables**
+PORT=
+DB_URI =
+STRIPE_API_KEY=
+STRIPE_SECRET_KEY=
+JWT_SECRET=
+JWT_EXPIRE=
+COOKIE_EXPIRE=
+SMPT_SERVICE =
+SMPT_MAIL=
+SMPT_PASSWORD=
+SMPT_HOST=
+SMPT_PORT=
+CLOUDINARY_NAME
+CLOUDINARY_API_KEY
+CLOUDINARY_API_SECRET
+_fill each filed with your info respectively_
+
+## Author
+
+**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
+**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
+**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
+**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
